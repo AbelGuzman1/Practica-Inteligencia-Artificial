@@ -1,75 +1,17 @@
-# 🤖 Práctica - Inteligencia Artificial
+Práctica - Inteligencia Artificial
 
-## 📘 Presentación Académica
+Presentación Académica:
+- Nombre: Abel Guzmán
+- Matrícula: 2020-9451
+- Asignatura: Inteligencia Artificial
+- Maestro: Luis Bessewell Feliz
+- Instituto: Instituto Tecnológico de Las Américas (ITLA)
 
-- **Nombre del estudiante:** Abel Guzmán  
-- **Matrícula:** 2020-9451  
-- **Asignatura:** Inteligencia Artificial  
-- **Maestro:** Luis Bessewell Feliz  
-- **Instituto:** Instituto Tecnológico de Las Américas (ITLA)
+Objetivo:
+Aplicar los conocimientos de la asignatura a través de una presentación narrativa explicada mediante un avatar generado por inteligencia artificial.
 
----
+Video en Microsoft Stream:
+https://itlaedudo.sharepoint.com/sites/MIEQUIPO633/_layouts/15/stream.aspx?id=%2Fsites%2FMIEQUIPO633%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20General%2D20250615%5F005457%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.2de8ea2f-f494-4d6e-b98e-65c03e302817&isDarkMode=true
 
-## 🎯 Objetivo del Proyecto
-
-Esta práctica tiene como objetivo aplicar los conocimientos adquiridos en la asignatura mediante una **presentación narrativa en video**, utilizando un **avatar generado con IA**, para explicar diversos conceptos clave sobre inteligencia artificial.
-
----
-
-## 📦 Recursos del Proyecto
-
-- 📹 **Video narrativo en Microsoft Stream**  
-  🔗 [Ver grabación en Microsoft Stream](https://itlaedudo.sharepoint.com/sites/MIEQUIPO633/_layouts/15/stream.aspx?id=%2Fsites%2FMIEQUIPO633%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20General%2D20250615%5F005457%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2de8ea2f%2Df494%2D4d6e%2Db98e%2D65c03e302817&isDarkMode=true)
-
-- 📁 **Carpeta de archivos compartidos del proyecto**  
-  🔗 [Ver carpeta en OneDrive](https://itlaedudo-my.sharepoint.com/:f:/g/personal/20209451_itla_edu_do/EpI2nGC-z3lAqD0YZF-QIjcBOYVgTuj23nSthuJqwJggwg?e=ehesRU)
-
----
-
-## 📚 Temas Investigados en el Video Narrativo
-
-1. 🧠 **Inteligencia, creatividad y genialidad/ingenialidad**  
-   Diferencias conceptuales y aplicaciones. _(Valor: 2 ptos)_
-
-2. 🔄 **Neuronas y redes neuronales biológicas**  
-   Explicación del funcionamiento humano y analogías computacionales. _(Valor: 3 ptos)_
-
-3. 🗃️ **Knowledge Base o Base de Conocimiento**  
-   Qué es y cómo se utiliza en sistemas inteligentes. _(Valor: 2 ptos)_
-
-4. 🤖 **Autómatas, androides, humanoides, robots y cyborgs**  
-   Diferencias tecnológicas, físicas y funcionales. _(Valor: 3 ptos)_
-
----
-
-## 📤 Insumos Adicionales Requeridos
-
-A) 📸 Foto original utilizada para generar el avatar  
-B) 🧑‍🚀 Imagen del avatar final  
-C) ✍️ Prompts usados para la generación del avatar  
-D) 🎞️ Video final del avatar generado  
-E) 🪪 Documento de identidad (Carnet, licencia o cédula sin datos sensibles)
-
-> 📌 *Todos los insumos deben estar vinculados mediante URL compartidas públicas o como adjuntos dentro del entorno de entrega como Moodle, Google Drive, OneDrive o Dropbox.*
-
----
-
-## ✅ Consideraciones Finales
-
-- No es necesario entregar el audio utilizado en la extracción de insumos.  
-- El video narrativo en Microsoft Stream debe tener **la misma duración** que el video final del avatar.  
-- Ambos videos deben presentar **la misma cara del expositor** en medida considerable.  
-- Se puede entregar un archivo digital o incluir las URL directamente en el editor de Moodle.
-
----
-
-## 🛠️ ¿Cómo lo hice?
-
-1. ✂️ Utilicé los comandos `Windows + Shift + S` para capturar la foto base  
-2. 🧠 Inserté la imagen en ChatGPT con este prompt:  
-   `"Reconstruye esta foto estilo futurista, cuidando los detalles, la temática debe ser tecnológica/bélica"`
-3. 🎧 Usé [mp3Cut.net](https://mp3cut.net) para extraer y editar el audio  
-4. 🤖 Usé [Kling AI](https://app.klingai.com) para generar el video con el avatar  
-5. 📄 Este `README.md` fue creado con ayuda de **Copilot**, usando este prompt:
-
-
+Carpeta Compartida de Archivos:
+https://itlaedudo-my.sharepoint.com/:f:/g/personal/20209451_itla_edu_do/EpI2nGC-z3lAqD0YZF-QIjcBOYVgTuj23nSthuJqwJggwg?e=ehesRU
