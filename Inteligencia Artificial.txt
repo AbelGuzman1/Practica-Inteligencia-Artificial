@@ -1,6 +1,75 @@
-https://itlaedudo.sharepoint.com/sites/MIEQUIPO633/_layouts/15/stream.aspx?id=%2Fsites%2FMIEQUIPO633%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20General%2D20250615%5F005457%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2de8ea2f%2Df494%2D4d6e%2Db98e%2D65c03e302817&isDarkMode=true
+# 🤖 Práctica - Inteligencia Artificial
 
-https://itlaedudo-my.sharepoint.com/:f:/g/personal/20209451_itla_edu_do/EpI2nGC-z3lAqD0YZF-QIjcBOYVgTuj23nSthuJqwJggwg?e=ehesRU
+## 📘 Presentación Académica
 
-PROMPT PARA GENERAR ESTE README: 
-Crea un readme para git hub atractivo e interesante, el cual debe tener como tema: Práctica - Inteligencia Artificial debe tener una presentación de la asignatura: Nombre: Inteligencia Artificial, Asignatura: Inteligencia Artificial, Maestro: Luis Bessewell Feliz, Matrícula:2020-9451, Instituto: Instituto Tecnológico de Las Américas (ITLA) A cerca del proyecto: (Te daré la estructura que dió el maestro para cumplir con la entrega pero tu deberás organizar la información eliminado redundancia y estructurando toda la información: Criterios para la Realización de la Actividad Valor Activdidad, 20 ptos. Entregar la URL Compartida de un Video Realizado a Través del Producto de "Microsoft Streams" -Explicando de Forma Narrativa- los Siguientes Temas de Investigación con sus Propias Palabras a Través de un "Ávatar Representativo" de Ustedes Mismos: 1. En qué consiste la Inteligencia, la Creatividad y y la Genialidad/Ingenialidad, y en qué se diferencia cada una de ellas. Valor 02 ptos. 2. Qué son las Neuronas y cómo funcionan para crear un conjunto de Redes Neuronales a nivel biológico o humano. Valor 03 ptos. 3. Qué es el Knowledge Base o Base de Conocimiento. Valor 02 ptos. 4. Qué son Autómatas, Androides, Humanoides, Robots y Cyborgs, y en qué se diferencian uno del otro. Valor 03 ptos. Entregar en la misma la URL Compartida o en URL's Separadas los Siguientes Insumos de Manera Adicional : A) La "Foto Original Base" que se tomó para realizar la conversión de la imagen del "Ávatar". B) La del "Foto Ávatar Generado". C) Los "Prompts" utilizados a nivel de "Inclusión o Exclusión" para generar el "Ávatar". D) Y finalmente, el "Video del Ávatar Generado". E) Agregar un documento de Identidad como el Carnet, o en su Defecto la Licencia de Conducir o Cédula de Identidad Electoral Sin que se Visualice Informaciones Sensitivas. Consideraciones Finales de Entrega: - No es necesario entregar el audio utilizado durante el proceso de extracción de insumos para generar el "Video del Ávatar". - El "Video de Microsoft Stream" con su audio, debe de terminar con la misma longitud de tiempo del "Video del Ávatar" final generado. - Debe de tener tanto el "Video de Microsoft Stream" como el del "Video del Ávatar" en gran medida la misma cara del expositor en ambos casos. Puede cambiar todo lo demás, pero en su medida, sin afectar en gran medida el rostro de la persona. - Se puede adjuntar un archivo en formato digital que contenga las rutas de dichas URL´s, como también, plasmar en el área del editor de Moodle, las correspondientes direcciones compartidas que pueden ser creadas en cualquier producto como Google Drive, One Drive, DropBox, entre otros. Otra sección: ¿Cómo lo hice? 1. Utilicé los comandos (windows + Shift + S) para poder tomar una captura de pantalla para empezar a trabajar con la edición de mi avatar. 2. Inserté la imágen en "Chat GPT" con el siguiente Prompt: "Reconstruye esta foto estilo futurista, cuidando los detalles, la temática debe ser tecnológica/belica" 3. Luego usé la herramienta "mp3Cut.net" para extraer el audio del video y la misma herramienta para cortarlo y exportarlo a mp3 4. Usé la IA "app.klingai.com" para insertar la imágen y el audio para el video" 5.este readme tambíen está creado con AI yo escribí todo este prompt usando la inteligencia artificial "Copilot". Conclusión: Este ha sido mi proceso para la elaboración de este proyecto, he podido llevar mas allá mis conocimientos teniendo que usar herramientas de "IA" para la realización de este proyecto no ha sido fácil ya que lograr el nivel de calidad y la elección de la "IA" ha sido muy complejo, hay muchas herramientas pero tomando en consideración que las ventajas reales solo se pueden disfrutar cuando uno paga la versión "Pro". Esta es la primera vez que realizo un proyecto similar y no tenía idea de lo tan interesante y avanzada que está la "IA". Por último y no menos importante, hice una certificación de Linkedin y Microsoft basado en "IA" y este conocimiento también me ha sido de ayuda para poder realizar dicho proyecto. Hasta aquí mi participación, y cordialmente me despido. Toma en consideración que todas las secciones deben tener emojis que sean logicamente orientados a la sección.
+- **Nombre del estudiante:** Abel Guzmán  
+- **Matrícula:** 2020-9451  
+- **Asignatura:** Inteligencia Artificial  
+- **Maestro:** Luis Bessewell Feliz  
+- **Instituto:** Instituto Tecnológico de Las Américas (ITLA)
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+Esta práctica tiene como objetivo aplicar los conocimientos adquiridos en la asignatura mediante una **presentación narrativa en video**, utilizando un **avatar generado con IA**, para explicar diversos conceptos clave sobre inteligencia artificial.
+
+---
+
+## 📦 Recursos del Proyecto
+
+- 📹 **Video narrativo en Microsoft Stream**  
+  🔗 [Ver grabación en Microsoft Stream](https://itlaedudo.sharepoint.com/sites/MIEQUIPO633/_layouts/15/stream.aspx?id=%2Fsites%2FMIEQUIPO633%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20General%2D20250615%5F005457%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2de8ea2f%2Df494%2D4d6e%2Db98e%2D65c03e302817&isDarkMode=true)
+
+- 📁 **Carpeta de archivos compartidos del proyecto**  
+  🔗 [Ver carpeta en OneDrive](https://itlaedudo-my.sharepoint.com/:f:/g/personal/20209451_itla_edu_do/EpI2nGC-z3lAqD0YZF-QIjcBOYVgTuj23nSthuJqwJggwg?e=ehesRU)
+
+---
+
+## 📚 Temas Investigados en el Video Narrativo
+
+1. 🧠 **Inteligencia, creatividad y genialidad/ingenialidad**  
+   Diferencias conceptuales y aplicaciones. _(Valor: 2 ptos)_
+
+2. 🔄 **Neuronas y redes neuronales biológicas**  
+   Explicación del funcionamiento humano y analogías computacionales. _(Valor: 3 ptos)_
+
+3. 🗃️ **Knowledge Base o Base de Conocimiento**  
+   Qué es y cómo se utiliza en sistemas inteligentes. _(Valor: 2 ptos)_
+
+4. 🤖 **Autómatas, androides, humanoides, robots y cyborgs**  
+   Diferencias tecnológicas, físicas y funcionales. _(Valor: 3 ptos)_
+
+---
+
+## 📤 Insumos Adicionales Requeridos
+
+A) 📸 Foto original utilizada para generar el avatar  
+B) 🧑‍🚀 Imagen del avatar final  
+C) ✍️ Prompts usados para la generación del avatar  
+D) 🎞️ Video final del avatar generado  
+E) 🪪 Documento de identidad (Carnet, licencia o cédula sin datos sensibles)
+
+> 📌 *Todos los insumos deben estar vinculados mediante URL compartidas públicas o como adjuntos dentro del entorno de entrega como Moodle, Google Drive, OneDrive o Dropbox.*
+
+---
+
+## ✅ Consideraciones Finales
+
+- No es necesario entregar el audio utilizado en la extracción de insumos.  
+- El video narrativo en Microsoft Stream debe tener **la misma duración** que el video final del avatar.  
+- Ambos videos deben presentar **la misma cara del expositor** en medida considerable.  
+- Se puede entregar un archivo digital o incluir las URL directamente en el editor de Moodle.
+
+---
+
+## 🛠️ ¿Cómo lo hice?
+
+1. ✂️ Utilicé los comandos `Windows + Shift + S` para capturar la foto base  
+2. 🧠 Inserté la imagen en ChatGPT con este prompt:  
+   `"Reconstruye esta foto estilo futurista, cuidando los detalles, la temática debe ser tecnológica/bélica"`
+3. 🎧 Usé [mp3Cut.net](https://mp3cut.net) para extraer y editar el audio  
+4. 🤖 Usé [Kling AI](https://app.klingai.com) para generar el video con el avatar  
+5. 📄 Este `README.md` fue creado con ayuda de **Copilot**, usando este prompt:
+
+
