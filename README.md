@@ -50,7 +50,7 @@ El propósito de esta actividad es aplicar los conocimientos adquiridos en la as
   🔗 [Ver imagen del avatar](https://itlaedudo-my.sharepoint.com/:i:/g/personal/20209451_itla_edu_do/Eel_CE8Q4KFAr0ks9vZXP8ABkz26d6zPlbTS9LLzdgXoNg?e=YZYYfj) _(abrir en nueva pestaña manualmente)_
 
 - ✍️ **Prompts utilizados para generar el Avatar en ChatGPT**  
-  `Reconstruye esta foto estilo futurista, cuidando los detalles, la temática debe ser tecnológica/bélica`
+  `Reconstruye esta foto estilo futurista, cuidando los detalles, la temática debe ser tecnológica/bélica (Más detalles en el archivo .txt)`
 
 - 🎞️ **Video del Avatar Generado**  
   🔗 [Ver video generado con IA](https://itlaedudo-my.sharepoint.com/:v:/g/personal/20209451_itla_edu_do/EXlhQXZ6DD9KqZjTEK58hNkBghBn4VlaxEHfZ_lItajtLQ?e=bpiXRQ) _(abrir en nueva pestaña manualmente)_
